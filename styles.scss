@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background: url("./mobile_home_page.png") no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+// menu {
+//   display: flex;
+//   flex-direction: column;
+//   width: 500px;
+//   height: 300px;
+
+//   &--button1 {
+
+//   }
+// }
